@@ -16,5 +16,6 @@ You can install these libraries using `pip` in Termux:
 
 ```bash
 pip install pyfiglet
+```bash
 pip install termcolor
 
