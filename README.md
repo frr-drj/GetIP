@@ -15,21 +15,26 @@ You can install these libraries using `pip` in Termux:
 pip install pyfiglet
 ```
 
-```pip install termcolor
+```bash
+pip install termcolor
 ```
 
-```pkg install git
+```bash
+pkg install git
 ```
 
-```git clone https://github.com/thedrjbot/GetIP
+```bash
+git clone https://github.com/thedrjbot/GetIP
 ```
 
 ## Run
 
-```cd getIP.py
+```bash
+cd getIP.py
 ```
 
-```python getIP.py
+```bash
+python getIP.py
 ```
 
 
